@@ -1,0 +1,3 @@
+name,id,nametype,recclass,mass (g),fall,year,reclat,reclong,finlat,finlong,color
+Mbosi,15456,Valid,"Iron, ungrouped",408000,Found,1/1/30 00:00,-9.11667,33.06667,59.5,109.0,yellow
+Paragould,18101,Valid,LL5,408000,Fell,1/1/30 00:00,36.06667,-90.5,14.9,20.4,orange
